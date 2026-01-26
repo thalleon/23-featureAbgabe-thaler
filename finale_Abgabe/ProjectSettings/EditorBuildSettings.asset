@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/start.unity
+    guid: 9c9e0404cf2ed4925b9298aeb06b84ec
+  - enabled: 1
+    path: Assets/Scenes/intro.unity
+    guid: 3e72681363d97432bb0f915fdadddf55
+  - enabled: 1
+    path: Assets/Scenes/homeScene.unity
+    guid: 7221054ca2a7144ff8280f28492f8205
+  - enabled: 1
+    path: Assets/Scenes/itemScene_01.unity
+    guid: b3c6f08f903f94bfba4e25e0d06cdc0e
+  - enabled: 1
+    path: Assets/Scenes/scene1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/scene2.unity
+    guid: 8efb70bed57164b6a873c1aacf7f5bdd
+  - enabled: 1
+    path: Assets/Scenes/itemScene_02.unity
+    guid: 76b37d3c56e124c3c961e09f3122273b
+  - enabled: 1
+    path: Assets/Scenes/itemScene_03.unity
+    guid: fbd61da6978ed46899fe84478bfaf0c2
+  - enabled: 1
+    path: Assets/Scenes/finalScene.unity
+    guid: 2640df01cd13047468d9d3d134612915
+  - enabled: 0
+    path: Assets/Scenes/scene3.unity
+    guid: e5b7f99d920f64d88b88ebdd74724971
+  - enabled: 1
+    path: Assets/yannis/Scenes/Yannis_Video.unity
+    guid: 66f176e4e74fc3b4facb284bccc3cec9
+  - enabled: 1
+    path: Assets/yannis/Scenes/Quizz_1.unity
+    guid: c9148dd8072fcae49b71de2acd563c1e
+  - enabled: 1
+    path: Assets/yannis/Scenes/Quizz_2.unity
+    guid: 7dce9645149f745e180a23aa8e22c16f
+  - enabled: 1
+    path: Assets/simon/Scenes/simonScene.unity
+    guid: de961310b41e04149b31ceed9dea5466
+  - enabled: 1
+    path: Assets/yannis/Scenes/Quizz_3.unity
+    guid: 2861f9d89dec741eba6d74b851d83703
+  - enabled: 1
+    path: Assets/Scenes/simonVideo.unity
+    guid: b3aec2e24aeb74b8b8b8af78b1963496
+  - enabled: 1
+    path: Assets/Scenes/outro.unity
+    guid: 8f0601faa390a4b308aa05372e8494e0
+  m_configObjects: {}
