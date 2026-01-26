@@ -1,0 +1,55 @@
+G7 - Deepfakes 
+
+Das Spiel ist ein interaktives Erklärvideo mit Wissensüberprüfung. Es gibt drei Kapitel rund um das Thema Deepfakes, mit jeweils einem Interaktiven Video und darauffolgenden Quiz. Wenn man die Quizfragen richtig beantwortet bekommt man Items, welche den Player helfen das Spiel durchzuspielen. Das Ziel ist es dem Character im Spiel helfen zu verstehen was Deepfakes sind und dass dieser wieder beruhigt durchs Netz scrollen kann. 
+
+Das Spiel wird mit der Maus und dem Cursor gespielt. Man schaut sich die Videos an, kann in den Videos mit der Maus die interaktiven Elemente bewegen und die richtigen Quizantworten auswählen. Am Ende kann man alle gesammelten Items kombinieren und das Spiel durchspielen. 
+
+Unity Version: 2022.3.xf1
+C#
+MacOs 15.6 (24G84)
+Windows 11
+
+Windows/MacOs Game bzw. Abgabeformat WebGL
+
+
+Yannis Leitner
+
+Deepfakes Erkennen - Erklärungsvideo + Quizz
+Aufklärung zur Hilfe zum erkennen von Deepfakes
+
+Drücken von Buttons und benutzen von Slidern
+Nur Mauseingaben
+Man Informiert sich durch die Videos und muss anschließend jeweils ein Quizz lösen
+
+Ich habe das Quizz programmiert sodass man die Fragen im Inspector schreiben kann und dort mit einem Index die Richtige Antwort auswählen kann. Dass spiel zeigt die Antwortmöglichkeiten dann in verschiedener Reihenfolge an. Außerdem hab ich ein Leben programmiert sodass man nach dem zweiten mal falsch beantworten in eine andere Szene geleitet wird wie wenn man alle 3 Fragen richtig beantwortet.
+
+Unity Version: 2022.3.xf1
+C#
+Windows 11
+
+Windows/MacOs Game bzw. Abgabeformat WebGL
+
+
+Thaler Leon 
+
+Deepfakes Erstellung - Erklärungsvideo + Quizz
+Hilfe um zu verstehen, wie Deepfakes gemacht werden, entstehen und was dafür benötigt wird
+
+Anordnen der verschiedenen Schritte in die richtige Reihenfolge, Auswahl der Bilder für ein Deepfaketraining, Inventar System, Intro&Outro Video, HomeScene, Zusammenfügen der drei verschiedenen Projekte in eines
+
+Unity Version: 2022.3.xf1
+C#
+MacOs 15.6 (24G84)
+
+Windows/MacOs Game bzw. Abgabeformat WebGL
+
+
+Simon Handlechner
+
+Drittes Video, Instagram/Freundebuch Überprüfung 
+
+Unity Version: 2022.3.xf1
+C#
+Windows 11
+
+Windows/MacOs Game bzw. Abgabeformat WebGL
